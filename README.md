@@ -135,4 +135,22 @@ Be sure to include any preliminary setup information, such as installing depende
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+
+
+# Beginning the Process 
+After the process of downloading GoETH through Homebrew, the essential aspect of mining is creating the Nodes as seen in the folder below. I had attempted to overcome the technical difficulties of MyCrypto by creating two separate mining centers. Bearnet and Puppernet. Although both Blockchains had been able to run successfully, I had not been able to resolve the issue surrounding MyCrypto. 
 ![Blockchain Folder](/Blockchain%20Images/Blockchain-Tools%20Folder.png)
+
+# Node 1 Mining
+Attatched is the mining of Node 2, I named him Henry. 
+![Node1](/Blockchain%20Images/Node1%20Mining.png)
+
+# Node 2 Mining 
+Attatched below is the mining of Node 2, I named him Paul. 
+![Node2](/Blockchain%20Images/Node2%20Mining.png)
+
+# Technical Difficulties 
+Unfortunately, MyCrypto had some technical difficulties. Because of this, I had not been able to complete the requirements asked above. Attatched is the screenshot of the GUI. 
+![Node2](/Blockchain%20Images/Technical%20Difficulties.png)
+
+
