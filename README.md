@@ -134,3 +134,5 @@ Be sure to include any preliminary setup information, such as installing depende
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+![Blockchain Folder](/Blockchain%20Images/Blockchain-Tools%20Folder.png)
