@@ -1,5 +1,5 @@
 # Proof of Authority Development Chain
-* Please Scroll to the bottom for the assignment completion
+#### Please Scroll to the bottom for the assignment completion
 For this assignment, you will take on the role of a new developer at a small bank.
 
 Your mission, should you choose to accept it, will be to set up a testnet blockchain for your organization.
