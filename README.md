@@ -151,7 +151,6 @@ Attatched below is the mining of Node 2, I named him Paul.
 
 # Technical Difficulties 
 Unfortunately, MyCrypto had some technical difficulties. Because of this, I had not been able to complete the requirements asked above. Attatched is the screenshot of the GUI. 
-https://github.com/gm0027/Blockchain/blob/main/Blockchain%20Images/Technical%20Difficulties.png
 ![Technical Difficulties](/Blockchain%20Images/Technical%20Difficulties.png)
 
 # Crypto Balance 
